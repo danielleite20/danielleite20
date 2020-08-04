@@ -1,9 +1,9 @@
-### Hi there 👋
+
 
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
-# Daniel Leite
+### Daniel Leite
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
@@ -15,7 +15,7 @@ Sou um FullStack Developer :computer:
  <br/> :computer: &nbsp; Stacks: ReactJS, Node.js, React Native & Typescript
  <br/> :computer: &nbsp; Linguagens: PHP, Javascript, HTML, CSS
  <br/> 💬  &nbsp; Sobre mim: Apaixonado por novas tecnologias, games PES, FUTEBOL - Rubro Negro e seriado.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-c%C3%A9sar-silva-leite-550818b8/)](https://www.linkedin.com/in/daniel-c%C3%A9sar-silva-leite-550818b8/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DanielLeite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-c%C3%A9sar-silva-leite-550818b8/)](https://www.linkedin.com/in/daniel-c%C3%A9sar-silva-leite-550818b8/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniellulugabi@gmail.com)](mailto:daniellulugabi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-daniellulugabi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniellulugabi@gmail.com)](mailto:daniellulugabi@gmail.com)
 
