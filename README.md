@@ -1,6 +1,5 @@
 
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
 ### Daniel Leite
@@ -9,7 +8,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Telcomanager**
+ :rocket:  &nbsp; Estou em busca de recolocação no mercado de trabalho**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Stacks: ReactJS, Node.js, React Native & Typescript
