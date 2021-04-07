@@ -8,7 +8,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Atualmente auto como analista de suporte e busco evoluir no mercado de trabalho**
+ :rocket:  &nbsp; Atualmente atuo como analista de suporte e busco evoluir no mercado de trabalho**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Stacks: ReactJS, Node.js, React Native & Typescript
