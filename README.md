@@ -6,7 +6,7 @@
 - 👀 Tenho interesse nas áreas de Otimização, Ciência de Dados, Machine Learning, Séries Temporais, Finanças, Computação Quântica e Programação Funcional. 
 
 Sou apaixonado por resolver problemas utilizando a programação.
-- 🌱 Atualmente, estou buscando o desenvolvimento nas linguagens Python, C e C++. :computer:
+- 🌱 Atualmente, Sou Analista de Processos Pleno atuando com a utilização de tratamento de dados para implementações de visualizações utilizando spotfire, power bi, entre outros, buscando o desenvolvimento nas linguagens Python, R, entre outras. :computer:
 
  :rocket:  &nbsp; Atualmente atuo como Técnologo de gestão da Tecnologia da Informação prestando serviço a Petrobras e busco evoluir no mercado de trabalho**
  <br/> :purple_heart: &nbsp;  - Buscando colaborar com projetos em Front-end usando React
